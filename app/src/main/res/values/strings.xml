@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DriodQuest</string>
+    <string name="true_button">Да</string>
+    <string name="false_button">Нет</string>
+    <string name="next_button">Далее</string>
+    <string name="back_button">Назад</string>
+    <string name="correct_toast">Верно!</string>
+    <string name="incorrect_toast">Не верно!</string>
+    <string name="action_setting">Setting</string>
+    <string name="menu_setting">Setting</string>
+    <string name="question_android">OC Adroid снована на ядре Linux.</string>
+    <string name="question_linear">Разметка LinearLayout позичионирует свои дочерние элементы в строки и столбцы.</string>
+    <string name="question_servise">Компонент Android-приложения Servise предоставляют доступ к данным.</string>
+    <string name="question_res">Ресурсы приложения содержаться в отдельном файле XML.</string>
+    <string name="question_manifest">AndroidManifest.xml предоставляет системе основную информацию о программе.</string>
+    <string name="question_q1">OC Adroid создана для IOS</string>
+    <string name="question_q2">OC Adroid разработана в 2006 году</string>
+    <string name="question_q3">OC Adroid позволяет запускать Java-приложения</string>
+    <string name="question_q4">OC Adroid была основана в Пало-Альто.</string>
+    <string name="question_q5">11 июля 2005 корпорация Google купила компанию Adroid.</string>
+    <string name="warning_text">Вы уверены, что хотите это сделать?</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="deceit_button">Обмануть!</string>
+    <string name="judment_toast">Обманывать нельзя.</string>
+</resources>
